@@ -1,0 +1,6 @@
+#### Metric tools
+Describe the applicability of a design metric tool (e.g. CodeClimate, CodeBeat) to the project code.
+
+Code Climate in an open and extensible static analysis platform. Code Climate monitors the health of the code, from the command line to the cloud, 
+so issues can be fixed sooner and ship better code, faster.
+It get automated code review for test coverage, complexity, duplication, security, style, and more, and merge with confidence.
